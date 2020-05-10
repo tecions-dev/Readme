@@ -48,10 +48,9 @@ analytics.page();}}();
   Last name:<br>
   <input type="text" name="lastname" value="Mouse">
   <br><br>
-  <input type="submit" value="Submit">
-</form>`
+  <input type="submit" value="Submit"></form>`
 
-##Image:
+##Image
 
 `<img src="pic_trulli.jpg" alt="Italian Trulli">`
 
