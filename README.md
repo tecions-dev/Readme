@@ -31,9 +31,7 @@ Eg:
 `<div style="opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>`
 
 
-`<style>
-opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF
-<style>`
+`<style>opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF<style>`
 
 
 
