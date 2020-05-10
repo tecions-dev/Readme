@@ -24,68 +24,19 @@ Rules, Information & Help
 - Projects should be Delivered at least **7 days** before ETA. It is Project Manager&#39;s Responsibility for smooth &amp; timely delivery of projects
 - MAIL / SMS/ NOTIFICATIONS Functions Should be checked manually
 - Logo should be resized and optimized as per requirements. Extra large images should not be used
-- ~~**Delay in project manager and assigned Resources with be charged with Penalty @2% of project per working day from team**~~ **.**
 - Inline CSS And JS Should not be used
 
 Eg:
 
-\&lt;div style=&quot;opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF&quot;\&gt;\&lt;/div\&gt;
+`<div style="opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>`
 
-\&lt;style\&gt;
 
+`<style>
 opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF
+<style>`
 
-\&lt;style\&gt;
 
-|
- |
- |
-| --- | --- |
-|
- |
- |
-|
- | \&lt;script\&gt; |
-|
- |
- |
-|
- |
- |
-|
- | analytics.page(); |
-|
- | }}(); |
-|
- | \&lt;/script\&gt; |
 
-Examples:
-
-Required
-
-Form:
-
-\&lt;form action=&quot;/action\_page.php&quot;\&gt;
-
-First name:\&lt;br\&gt;
-
-\&lt;input type=&quot;text&quot; name=&quot;firstname&quot;value=&quot;Mickey&quot;\&gt;
-
-\&lt;br\&gt;
-
-Last name:\&lt;br\&gt;
-
-\&lt;input type=&quot;text&quot; name=&quot;lastname&quot; value=&quot;Mouse&quot;\&gt;
-
-\&lt;br\&gt;\&lt;br\&gt;
-
-\&lt;input type=&quot;submit&quot; value=&quot;Submit&quot;\&gt;
-
-\&lt;/form\&gt;
-
-Image:
-
-\&lt;img src=&quot;pic\_trulli.jpg&quot; alt=&quot;Italian Trulli&quot;\&gt;
 
 **Design UI , Facebook Creative, Print Design - Testing Guidelines**
 
