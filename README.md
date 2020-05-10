@@ -1,2 +1,10 @@
 # Readme
-About Best Practise 
+Rules, Information & Help 
+
+##Laravel
+
+
+##Vue
+
+
+##React Native
