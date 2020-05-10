@@ -34,6 +34,28 @@ Eg:
 `<style>opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF<style>`
 
 
+`	<script>
+analytics.page();}}();
+</script>`
+ 
+ 
+ ##Form:
+
+`<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form>`
+
+##Image:
+
+`<img src="pic_trulli.jpg" alt="Italian Trulli">`
+
+
 
 
 **Design UI , Facebook Creative, Print Design - Testing Guidelines**
